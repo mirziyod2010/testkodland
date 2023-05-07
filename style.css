@@ -2,9 +2,9 @@
 html{
     scroll-behavior: smooth;
 }
-@media screen {
+@media (min-width: 500px){
   img{
-    height: 200px;
+    height: 100px;
     width: 100px;
   }
 }
